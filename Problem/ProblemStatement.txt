@@ -1,0 +1,16 @@
+Salesman have to travel all cities and return back to startcity.
+Salesman can not revisit the same city.
+Cities are named as number .
+The cost are given either  in csv file or in visual representation of tsp.
+If visual representation then have to create a csv according it , I have given that type of example by 4city image and csv.
+Explaination of csv file : 
+    1) indices of rows and columns indicates the city number.
+    2) how to know about a cost from x to y city : 
+        like if i want to know the cost of going to 0th to 5th city
+        look in 0th row and in that 5th column element that will be the cost.
+** 2types of tsp : 
+    1) Symmetric tsp : 
+        cost(i,j) == cost(j,i) {means cost of going from  city i to j is same as cost of going from j to i}
+    2) Asymmetric tsp : 
+        cost(i,j) != cost(j,i)
+
