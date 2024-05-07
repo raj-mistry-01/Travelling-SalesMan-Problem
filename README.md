@@ -18,4 +18,4 @@ pip install -r requirements
 ```
 ### Avoid a comman mistake
 
-while running solution.py  , `path of csv should be according your system` script
+while running solution.py  , `path of csv should be according your system` 
