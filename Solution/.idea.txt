@@ -1,0 +1,12 @@
+# Brute force approach : 
+1) Input Startcity
+2) Remove that city from predefined citylist 
+3) Generate all possible path ny permuatations
+4) Calculate all path's cost 
+5) Select the path or paths with minimum cost
+
+# Nearest neighbour approach
+1) Input Startcity
+2) Iterate column vise in each city .
+3) Every iteration will have minimum value of cost , according it's index append that in valuelist and indexlist respectively.
+4) Next iteration should avoid previous value and index .

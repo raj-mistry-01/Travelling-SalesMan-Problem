@@ -1,0 +1,2 @@
+Startcity city will be any number between 0 to 5 including both.
+Salesman should travel in such way that travelling cost should be minimum.
